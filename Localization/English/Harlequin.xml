@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="51cec3ee6ea74b2c6f0a256043b938691298d" version="1">Harlequin</content>
+	<content contentuid="3ccf56b6881e9dd5b7f3675c15961f191271b" version="1">The Harlequin is the embodiment of whimsy and enigma, a performer skilled in both deception and combat. They dance on the line between illusion and reality, using their beguiling presence and agile acrobatics to confound foes.</content>
+	<content contentuid="e5c75ed285d846ce9bc1bc69566ca07bc210e" version="1">Harlequin Alias</content>
+	<content contentuid="54bed3d6a1f403b194fc208b69445a03cda0c" version="1">While under the guise of your Harlequin Alias, you may make Deception and Intimidation checks with advantage.</content>
+	<content contentuid="fbc648ccf0f884e0e09f915cdc8aece293434" version="1">Stage Acts</content>
+	<content contentuid="a5ab8b612b56b9a6f3032ffeaeeb94e0942a3" version="1">At 2nd level, you choose the branch of training that best defines your alias, providing you with features at 2nd, 6th, 10th, and 14th levels.</content>
+	<content contentuid="01AAEC55AD1628AEF7DE1AD5FCC1F13E3FA15" version="1">Unnatural Agility</content>
+	<content contentuid="B1BA83B4646B786C779CA55960364823AC973" version="1">You move with a nimble grace that allows you to traverse the dance floor with ease. Your walking speed increases by 10ft if you do not have a shield.</content>
+	<content contentuid="2B4929AB45C687DBB39EA06E28B1788AE993B" version="1">Rhythmic Assault</content>
+	<content contentuid="ed3c45688ed1c5092fd69e035a36a43ec361e" version="1">Your next attack will deal bonus damage.</content>
+	<content contentuid="5474E041D4C542574876CE25BC804AED7A29F" version="1">After making a successful weapon attack, go into a rhythmic stance. While in this stance, attacks on their next turn gain an additional bonus to damage. On miss, you lose the rhythm and must start again.</content>
+	<content contentuid="ed6c45689ed1c5092fd69d035a36a43ec361f" version="1">Acrobat</content>
+	<content contentuid="99d73a53fad1e72790e0e707e9301cafdfffd" version="1">Acrobats focus on extreme mobility to dance across the battlefield, and are capable of engaging multiple enemies from afar.</content>
+	<content contentuid="FECE96447805EBD34DB8BB3F95CE2AF740B7C" version="1">Jester</content>
+	<content contentuid="33C47B70B0A3CF585C576E80EFB6F5019A76F" version="1">Jesters are masters of the fear tactics employed by harlequins, sowing chaos and dismay wherever they go.</content>
+	<content contentuid="9C552B71ACBC303180784B161BE1630A99F6A" version="1">Lantern Bearer</content>
+	<content contentuid="9D3B0A1658598261FAE04DE599F60802AE23D" version="1">Lantern bearers embody the supernatural trappings of the harlequins, capitalising on their targets' fear of the unknown by employing unusual tactics.</content>
+	<content contentuid="AA8BB01C6275146FA3D8B8AB092CC6C38FE24" version="1">Evasive Training: Dash</content>
+	<content contentuid="C88B24E3FD8E843FEB03F5DCA9BDE63F5F95E" version="1">Evasive Training: Disengage</content>
+</contentList>
