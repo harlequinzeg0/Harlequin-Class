@@ -10,7 +10,7 @@
                     <attribute id="UUID" type="guid" value="a488b5af-d46e-498e-bf59-9c30ad72f043"/>
                 </node>
                 <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Harlequin Acrobat Evasive Training"/>
+                    <attribute id="Comment" type="LSString" value="Harlequin Acrobat Lvl Two"/>
                     <attribute id="Spells" type="LSString" value="Shout_Dash_EvasiveTraining;Shout_Disengage_EvasiveTraining"/>
                     <attribute id="UUID" type="guid" value="9e282fda-1668-49e3-8bdd-ec79d2c13729"/>
                 </node>
@@ -18,6 +18,11 @@
                     <attribute id="Comment" type="LSString" value="Harlequin Vicious Mockery"/>
                     <attribute id="Spells" type="LSString" value="Target_ViciousMockery_Jester"/>
                     <attribute id="UUID" type="guid" value="28032e68-9c5c-402c-b9e2-d0802f280807"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Harlequin Torch Bearer Lvl Two"/>
+                    <attribute id="Spells" type="LSString" value="Shout_ProduceFlame"/>
+                    <attribute id="UUID" type="guid" value="4a810f8f-7f87-4867-93c1-8e06eccb14d4"/>
                 </node>
 			</children>
         </node>
