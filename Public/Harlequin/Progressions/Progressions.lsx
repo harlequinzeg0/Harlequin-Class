@@ -160,7 +160,15 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Jester"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="FearIncarnate,LurkinShadows"/>
+                    <attribute id="TableUUID" type="guid" value="1dfa437a-9d0c-4d19-a437-d919bde529f9"/> 
+                    <attribute id="UUID" type="guid" value="2771d8a9-8d8f-4872-b288-33ef6092c5a8"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="Jester"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(28032e68-9c5c-402c-b9e2-d0802f280807)"/>
                     <attribute id="TableUUID" type="guid" value="1dfa437a-9d0c-4d19-a437-d919bde529f9"/> 
                     <attribute id="UUID" type="guid" value="2771d8a9-8d8f-4872-b288-33ef6092c5a8"/>
                 </node>
