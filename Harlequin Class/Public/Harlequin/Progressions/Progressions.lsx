@@ -95,6 +95,7 @@
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="Harlequin"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MenacingStrikes"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="e035c466-fce4-483e-b284-4775eeffaa0b"/>
@@ -120,6 +121,7 @@
                     <attribute id="UUID" type="guid" value="45ef7b0b-3686-4d46-809e-c374bcb43f08"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Harlequin"/>
@@ -132,6 +134,7 @@
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="Harlequin"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnarmoredDefense_Harlequin"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="e035c466-fce4-483e-b284-4775eeffaa0b"/>
@@ -157,6 +160,21 @@
                     <attribute id="UUID" type="guid" value="208c93ca-6a74-4406-9e29-4db90673e600"/>
                 </node>
 				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="Acrobat"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(5fc505ac-dcd3-4ffb-9a1b-7f4912dd1d75)"/>
+                    <attribute id="TableUUID" type="guid" value="ae76cb79-4413-454b-95e9-65bee58bcc4d"/> 
+                    <attribute id="UUID" type="guid" value="0f00c3fe-75bb-4d1c-bdb4-fd8cb637a149"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="Acrobat"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="ae76cb79-4413-454b-95e9-65bee58bcc4d"/> 
+                    <attribute id="UUID" type="guid" value="a57f9236-13b5-411b-8498-88c9b46b7381"/>
+                </node>
+				<node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Jester"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
@@ -171,6 +189,13 @@
                     <attribute id="Selectors" type="LSString" value="AddSpells(28032e68-9c5c-402c-b9e2-d0802f280807)"/>
                     <attribute id="TableUUID" type="guid" value="1dfa437a-9d0c-4d19-a437-d919bde529f9"/> 
                     <attribute id="UUID" type="guid" value="354cd5c9-1cd6-4371-807d-487a5f83abbb"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="Jester"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="1dfa437a-9d0c-4d19-a437-d919bde529f9"/> 
+                    <attribute id="UUID" type="guid" value="6da9d698-df7b-4218-ac1f-45da1c61c49b"/>
                 </node>
 				<node id="Progression">
                     <attribute id="Level" type="uint8" value="2"/>

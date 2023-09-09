@@ -25,4 +25,10 @@
 	<content contentuid="C224C1F2DE17E40B3A7903B50D831CFA74283" version="1">You gain proficiency in the Intimidation skill. You may double your proficiency bonus for all Intimidation checks you make.</content>
 	<content contentuid="40648570553EF482F485BB397517398FA8C55" version="1">Lurk in the Shadows</content>
 	<content contentuid="3FCD5D8D840F0D8E9CE06732A7D35682B920C" version="1">Starting at 2nd level, when you attack a creature that you are considered hidden from, that creature becomes Frightened of you until the start of your next turn.</content>
+	<content contentuid="B0911BC33C6D7FFB72DFF3DDF68F7CFB7FEDE" version="1">Armour of Anonymity</content>
+	<content contentuid="2B30F488F58AB6EA786FAD68ECC765C7E4998" version="1">Your fiendish persona is effective as any armour. While not wearing armour, you add your Charisma Modifier to your Armour Class.</content>
+	<content contentuid="A0D6031E49F2F9A63C423FE310B895C873A17" version="1">Uncanny Movement</content>
+	<content contentuid="E261E36A667D7DFB4016699D0CF9F126F78CC" version="1">You unsettle hostile creatures as you slip by them. Leaping near a hostile creature with your acrobatic prowess may cause them to become frightened until the end of their next turn.</content>
+	<content contentuid="E32929977C7D3311A7F60A1345F81F5951908" version="1">Menacing Strikes</content>
+	<content contentuid="01C508829ABA4F420C3034D17702C7C56BD93" version="1">You learn to instil fear through your combat prowess. When you enhance your damage to a creature with your Deadly Flow feature, you may cause it to make a Charisma saving throw. On a failed save, the creature becomes Frightened of you for 4 turns.</content>
 </contentList>

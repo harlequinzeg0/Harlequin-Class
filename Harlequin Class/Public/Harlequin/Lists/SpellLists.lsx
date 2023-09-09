@@ -24,6 +24,11 @@
                     <attribute id="Spells" type="LSString" value="Shout_ProduceFlame"/>
                     <attribute id="UUID" type="guid" value="4a810f8f-7f87-4867-93c1-8e06eccb14d4"/>
                 </node>
+				<node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Harlequin Leap"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Jump_Harlequin"/>
+                    <attribute id="UUID" type="guid" value="5fc505ac-dcd3-4ffb-9a1b-7f4912dd1d75"/>
+                </node>
 			</children>
         </node>
     </region>

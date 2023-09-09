@@ -29,7 +29,6 @@ data "Icon" "PassiveFeature_GraceAndBeauty"
 data "Properties" "Highlighted"
 data "Boosts" "ProficiencyBonus(Skill,Acrobatics);ExpertiseBonus(Acrobatics)"
 
-
 new entry "FearIncarnate"
 type "PassiveData"
 data "DisplayName" "11BD98443D11952B35EB5CD93A1039891BE62;1"
@@ -47,4 +46,26 @@ data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "HasStatus('SNEAKING_CLEAR') or HasStatus('SNEAKING_LIGHTLY_OBSCURED') or HasStatus('SNEAKING_HEAVILY_OBSCURED')"
 data "StatsFunctors" "ApplyStatus(FRIGHTENED,100,1)"
+
+new entry "UnarmoredDefense_Harlequin"
+type "PassiveData"
+data "DisplayName" "B0911BC33C6D7FFB72DFF3DDF68F7CFB7FEDE;1"
+data "Description" "2B30F488F58AB6EA786FAD68ECC765C7E4998;1"
+data "Icon" "PassiveFeature_UnarmoredDefense"
+data "Properties" "Highlighted"
+data "BoostContext" "OnEquip;OnCreate"
+data "BoostConditions" "not WearingArmor(context.Source) and not HasShieldEquipped(context.Source)"
+data "Boosts" "ACOverrideFormula(10,true,Dexterity,Charisma)"
+
+new entry "MenacingStrikes"
+type "PassiveData"
+data "DisplayName" "E32929977C7D3311A7F60A1345F81F5951908;1"
+data "Description" "01C508829ABA4F420C3034D17702C7C56BD93;1"
+data "Icon" "PassiveFeature_MenacingStrike"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "HasStatus('RHYTHMIC_ASSAULT')"
+data "StatsFunctors" "CreateExplosion(Projectile_MenacingStrikes)"
+
+
 
