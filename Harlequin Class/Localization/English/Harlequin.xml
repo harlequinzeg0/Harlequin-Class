@@ -9,7 +9,7 @@
 	<content contentuid="01AAEC55AD1628AEF7DE1AD5FCC1F13E3FA15" version="1">Unnatural Agility</content>
 	<content contentuid="B1BA83B4646B786C779CA55960364823AC973" version="1">You move with a nimble grace that allows you to traverse the dance floor with ease. Your walking speed increases by 10ft if you do not have a shield.</content>
 	<content contentuid="2B4929AB45C687DBB39EA06E28B1788AE993B" version="1">Rhythmic Assault</content>
-	<content contentuid="ed3c45688ed1c5092fd69e035a36a43ec361e" version="1">Your next attack will deal bonus damage.</content>
+	<content contentuid="ed3c45688ed1c5092fd69e035a36a43ec361e" version="1">Your next attack will deal bonus psychic damage.</content>
 	<content contentuid="5474E041D4C542574876CE25BC804AED7A29F" version="1">After making a successful weapon attack, go into a rhythmic stance. While in this stance, attacks on their next turn gain an additional bonus to damage. On miss, you lose the rhythm and must start again.</content>
 	<content contentuid="ed6c45689ed1c5092fd69d035a36a43ec361f" version="1">Acrobat</content>
 	<content contentuid="99d73a53fad1e72790e0e707e9301cafdfffd" version="1">Acrobats focus on extreme mobility to dance across the battlefield, and are capable of engaging multiple enemies from afar.</content>
@@ -32,7 +32,7 @@
 	<content contentuid="A0D6031E49F2F9A63C423FE310B895C873A17" version="1">Uncanny Movement</content>
 	<content contentuid="E261E36A667D7DFB4016699D0CF9F126F78CC" version="1">You unsettle hostile creatures as you slip by them. Leaping near a hostile creature with your acrobatic prowess may cause them to become frightened until the end of their next turn.</content>
 	<content contentuid="E32929977C7D3311A7F60A1345F81F5951908" version="1">Menacing Strikes</content>
-	<content contentuid="01C508829ABA4F420C3034D17702C7C56BD93" version="1">You learn to instil fear through your combat prowess. When you enhance your damage to a creature with your Deadly Flow feature, you may cause it to make a Charisma saving throw. On a failed save, the creature becomes Frightened of you for 4 turns.</content>
+	<content contentuid="01C508829ABA4F420C3034D17702C7C56BD93" version="1">You learn to instil fear through your combat prowess. When you enhance your damage to a creature with your Deadly Flow feature, you may cause it to make a Charisma saving throw. On a failed save, the creature becomes Frightened of you.</content>
 	<content contentuid="83D79708FCC81EBADEB41A5B7CED4CE2C241E" version="1">Engage the Audience</content>
 	<content contentuid="7ABE8F2E4DCA510CA96606274331A2683F66E" version="1">Engage the Audience: Melee</content>
 	<content contentuid="D6C1B10F36C56BA911D1FC396533B194AB729" version="1">Engage the Audience: Ranged</content>
@@ -45,4 +45,6 @@
 	<content contentuid="292D2C456919E0B2B7E052FAEFFA5D8C20D56" version="1">Breathless</content>
 	<content contentuid="87E5AE7915D740A025010A1F9EB8986C8FB08" version="1">Movement speed is halved and this creature may only take an Action or Bonus Action but not both on its turn.</content>
 	<content contentuid="6F7B872F964FB0E2F9DF4F3A5AF7E40C0B1C7" version="1">Any frightened creature within 20ft of you has their movement speed halved and may only take an Action or Bonus Action but not both on its turn.</content>
+	<content contentuid="C4C41165A745DE39AA3852C9DDA2FE6497800" version="1">Smoulder</content>
+	<content contentuid="72A3C752C3844324A5E5BFFBC06F6157EB8AC" version="1">whenever you deal fire damage to a creature, that creature is set aflame. it takes fire damage equal to your Charisma modifier at the start of its next turn. The flames are then doused.</content>
 </contentList>

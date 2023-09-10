@@ -220,6 +220,7 @@
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="LanternBearer"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Harlequin_Smoulder"/>
                     <attribute id="TableUUID" type="guid" value="76773322-e2b8-4d7f-815b-05de39fa3f55"/> 
                     <attribute id="UUID" type="guid" value="e468c393-e543-483a-9ee0-a1be11764920"/>
                 </node>
