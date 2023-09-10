@@ -67,5 +67,12 @@ data "StatsFunctorContext" "OnAttack"
 data "Conditions" "HasStatus('RHYTHMIC_ASSAULT',context.Source) and not HasStatus('FRIGHTENED')"
 data "StatsFunctors" "CreateExplosion(Projectile_MenacingStrikes)"
 
-
-
+new entry "EvasiveExpertise_Block"
+type "PassiveData"
+data "DisplayName" "0437B3216E241D6B5E34D5AA2A1693E2C8974;1"
+data "Description" "4D19FE4C49535C47C0828B77077328E675165;1"
+data "ExtraDescription" ""
+data "Icon" "PassiveFeature_EvasiveExpertise"
+data "PriorityOrder" "1"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockInterrupt(Interrupt_EvasiveExpertise)"

@@ -26,7 +26,7 @@
                 </node>
 				<node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Harlequin Leap"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_Jump_Harlequin"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Jump_Harlequin;Zone_EngageAudience"/>
                     <attribute id="UUID" type="guid" value="5fc505ac-dcd3-4ffb-9a1b-7f4912dd1d75"/>
                 </node>
 			</children>

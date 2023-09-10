@@ -170,6 +170,7 @@
 				<node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Acrobat"/>
+                    <attribute id="PassivesAdded" type="LSString" value="EvasiveExpertise_Block"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="ae76cb79-4413-454b-95e9-65bee58bcc4d"/> 
                     <attribute id="UUID" type="guid" value="a57f9236-13b5-411b-8498-88c9b46b7381"/>
