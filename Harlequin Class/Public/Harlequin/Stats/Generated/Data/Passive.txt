@@ -95,7 +95,7 @@ data "ExtraDescription" ""
 data "Icon" "PassiveFeature_Lightshow"
 data "PriorityOrder" "1"
 data "Properties" "Highlighted"
-data "Boosts" "IF(WieldingWeapon('Torch')):WeaponAttackRollAbilityOverride(Dexterity)"
+data "Boosts" "IF(WieldingWeapon('Torch')):WeaponAttackRollAbilityOverride(Dexterity);IF(WieldingWeapon('Torch')):IntrinsicSummonerProficiency();IF(WieldingWeapon('Torch')):IntrinsicSourceProficiency()"
 
 new entry "Harlequin_Smoulder"
 type "PassiveData"
