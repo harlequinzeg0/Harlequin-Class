@@ -37,4 +37,12 @@
 	<content contentuid="7ABE8F2E4DCA510CA96606274331A2683F66E" version="1">Engage the Audience: Melee</content>
 	<content contentuid="D6C1B10F36C56BA911D1FC396533B194AB729" version="1">Engage the Audience: Ranged</content>
 	<content contentuid="11B0AD66FA2CD050D7705EC9C11CD85EEFD77" version="1">You take your lightning-fast skills on the offensive, flinging multiple projectiles with unerring accuracy to enemies in front of you within a 40ft cone originating from you.</content>
+	<content contentuid="407A3A2A6F0D8998E9903D218C3B15CA20917" version="1">Torch Master</content>
+	<content contentuid="A0F6FCDC71EB3E728EA0ED888D4977B5AB76A" version="1">You are proficient with Torches. Torches now use your Dexterity modifier to calculate damage.</content>
+	<content contentuid="4EE6543700CFB29909236A82F8A9C85708003" version="1">Breath of the Dancing Dragon</content>
+	<content contentuid="9F7C6A85211ADF46165FE486F5A1E084F458F" version="1">You learn to wield fire in a dramatic fashion. You may exhale a potent alcoholic mixture to spray fire in a cone. Creatures within the cone must make a Dexterity saving throw to prevent taking fire damage.</content>
+	<content contentuid="52F41147383522CC7BD4E6E37BAAEBFD077D0" version="1">Breathless with Fear</content>
+	<content contentuid="292D2C456919E0B2B7E052FAEFFA5D8C20D56" version="1">Breathless</content>
+	<content contentuid="87E5AE7915D740A025010A1F9EB8986C8FB08" version="1">Movement speed is halved and this creature may only take an Action or Bonus Action but not both on its turn.</content>
+	<content contentuid="6F7B872F964FB0E2F9DF4F3A5AF7E40C0B1C7" version="1">Any frightened creature within 20ft of you has their movement speed halved and may only take an Action or Bonus Action but not both on its turn.</content>
 </contentList>

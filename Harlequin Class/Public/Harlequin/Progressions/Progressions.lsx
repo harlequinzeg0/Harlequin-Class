@@ -195,6 +195,7 @@
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Jester"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BreathlessFear"/>
                     <attribute id="TableUUID" type="guid" value="1dfa437a-9d0c-4d19-a437-d919bde529f9"/> 
                     <attribute id="UUID" type="guid" value="6da9d698-df7b-4218-ac1f-45da1c61c49b"/>
                 </node>
@@ -202,10 +203,25 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="LanternBearer"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Lightshow"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(4a810f8f-7f87-4867-93c1-8e06eccb14d4)"/>
                     <attribute id="TableUUID" type="guid" value="76773322-e2b8-4d7f-815b-05de39fa3f55"/> 
                     <attribute id="UUID" type="guid" value="accc0996-3792-4e87-97e9-5a5bbd2cda05"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="LanternBearer"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(9325d3dd-d902-4607-816a-61a4f9a1c24d)"/>
+                    <attribute id="TableUUID" type="guid" value="76773322-e2b8-4d7f-815b-05de39fa3f55"/> 
+                    <attribute id="UUID" type="guid" value="1a9a79ff-791c-4ec3-b7d1-2beec605dfe3"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="LanternBearer"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="76773322-e2b8-4d7f-815b-05de39fa3f55"/> 
+                    <attribute id="UUID" type="guid" value="e468c393-e543-483a-9ee0-a1be11764920"/>
                 </node>
             </children>
         </node>
