@@ -21,7 +21,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Harlequin Torch Bearer Lvl Two"/>
-                    <attribute id="Spells" type="LSString" value="Shout_ProduceFlame"/>
+                    <attribute id="Spells" type="LSString" value="Shout_ProduceFlame;Shout_TorchMaster"/>
                     <attribute id="UUID" type="guid" value="4a810f8f-7f87-4867-93c1-8e06eccb14d4"/>
                 </node>
 				<node id="SpellList">

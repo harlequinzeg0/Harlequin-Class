@@ -204,7 +204,6 @@
                     <attribute id="Name" type="LSString" value="LanternBearer"/>
                     <attribute id="Boosts" type="LSString" value="Proficiency(Clubs)"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Lightshow"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(4a810f8f-7f87-4867-93c1-8e06eccb14d4)"/>
                     <attribute id="TableUUID" type="guid" value="76773322-e2b8-4d7f-815b-05de39fa3f55"/> 
                     <attribute id="UUID" type="guid" value="accc0996-3792-4e87-97e9-5a5bbd2cda05"/>
