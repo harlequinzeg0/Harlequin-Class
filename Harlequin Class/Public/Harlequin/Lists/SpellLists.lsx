@@ -15,6 +15,11 @@
                     <attribute id="UUID" type="guid" value="9e282fda-1668-49e3-8bdd-ec79d2c13729"/>
                 </node>
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Harlequin Jester Lvl Two"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Hide_BonusAction"/>
+                    <attribute id="UUID" type="guid" value="da2e6552-ecc1-44d8-9bd2-a0983098b171"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Harlequin Vicious Mockery"/>
                     <attribute id="Spells" type="LSString" value="Target_ViciousMockery_Jester"/>
                     <attribute id="UUID" type="guid" value="28032e68-9c5c-402c-b9e2-d0802f280807"/>
@@ -33,6 +38,36 @@
                     <attribute id="Comment" type="LSString" value="Harlequin Flame Breath"/>
                     <attribute id="Spells" type="LSString" value="Harlequin_BreathWeapon_Fire_Cone"/>
                     <attribute id="UUID" type="guid" value="9325d3dd-d902-4607-816a-61a4f9a1c24d"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Harlequin Maddened_Cackle"/>
+                    <attribute id="Spells" type="LSString" value="Maddened_Cackle"/>
+                    <attribute id="UUID" type="guid" value="8f6294a2-9a25-436b-9ba5-0897fefba7d9"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Harlequin Torch Bearer Spells Lvl 1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_BurningHands;Target_DissonantWhispers;Target_FaerieFire;Target_Bane;Zone_ColorSpray;Target_Sleep"/>
+                    <attribute id="UUID" type="guid" value="3ff9ab61-46dc-4a52-b007-43249abccc06"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Harlequin Torch Bearer Spells Lvl 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_HeatMetal;Target_FlamingSphere;Shout_FlameBlade;Projectile_ScorchingRay"/>
+                    <attribute id="UUID" type="guid" value="a723a0dd-47b3-4af7-95b5-e4798d657497"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Harlequin Torch Bearer Spells Lvl 3"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_Fireball;Target_CrownOfMadness;Projectile_ScorchingRay;Target_Blindness;Zone_BurningHands"/>
+                    <attribute id="UUID" type="guid" value="a72075d9-e2c8-4b8d-90d1-c1849949c02f"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Harlequin Torch Bearer Spells Lvl 4"/>
+                    <attribute id="Spells" type="LSString" value="Shout_FireShield;Wall_WallOfFire"/>
+                    <attribute id="UUID" type="guid" value="6954e841-cea0-49f7-ba41-1dd75bd8c2c9"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Harlequin Torch Bearer Cantrips"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_FireBolt;Target_Light;Target_Grease;Shout_ProduceFlame;Target_DancingLights;Shout_BladeWard"/>
+                    <attribute id="UUID" type="guid" value="7875f56a-efd3-407f-a7fc-9fb760498bd1"/>
                 </node>
 			</children>
         </node>
