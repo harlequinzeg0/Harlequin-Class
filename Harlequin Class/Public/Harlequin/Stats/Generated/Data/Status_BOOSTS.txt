@@ -74,7 +74,7 @@ data "HitAnimationType" "MagicalDamage_External"
 data "TooltipDamage" "DealDamage(LevelMapValue(Smoulder),Fire)"
 data "TickFunctors" "DealDamage(LevelMapValue(Smoulder),Fire)"
 data "StatusPropertyFlags" ""
-data "OnApplyFunctors" "DealDamage(LevelMapValue(Smoulder),Fire)"
+data "OnApplyFunctors" "DealDamage(LevelMapValue(Smoulder),Fire);ApplyStatus(BURNING,100,6)"
 
 new entry "FIRE_VULN"
 type "StatusData"

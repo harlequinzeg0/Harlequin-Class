@@ -16,11 +16,11 @@
                 </node>
                 <node id="LevelMapSeries">
                     <attribute id="Level1" type="LSString" value="1d4"/>
-                    <attribute id="Level3" type="LSString" value="2d4"/>
+                    <attribute id="Level3" type="LSString" value="1d4"/>
                     <attribute id="Level5" type="LSString" value="2d4"/>
                     <attribute id="Level6" type="LSString" value="3d4"/>
-                    <attribute id="Level9" type="LSString" value="5d4"/>
-                    <attribute id="Level11" type="LSString" value="6d4"/>
+                    <attribute id="Level9" type="LSString" value="4d4"/>
+                    <attribute id="Level11" type="LSString" value="5d4"/>
                     <attribute id="Name" type="FixedString" value="Smoulder"/>
                     <attribute id="PreferredClassUUID" type="guid" value="ce03beac-fb46-4161-b826-06a377c3716d"/>
                     <attribute id="UUID" type="guid" value="d179ddef-dfa5-40ae-9472-20d859f772fd"/>
