@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d4"/>
+                    <attribute id="Level3" type="LSString" value="2d4"/>
+                    <attribute id="Level5" type="LSString" value="3d4"/>
+                    <attribute id="Level7" type="LSString" value="4d4"/>
+                    <attribute id="Level9" type="LSString" value="5d4"/>
+                    <attribute id="Name" type="FixedString" value="RythmicAssault"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="ce03beac-fb46-4161-b826-06a377c3716d"/>
+                    <attribute id="UUID" type="guid" value="de6418ad-9f2c-45a9-8f1f-d2466e178a39"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="10"/>
+                    <attribute id="Level3" type="LSString" value="10"/>
+                    <attribute id="Level5" type="LSString" value="12"/>
+                    <attribute id="Level7" type="LSString" value="12"/>
+                    <attribute id="Level9" type="LSString" value="12"/>
+                    <attribute id="Level9" type="LSString" value="15"/>
+                    <attribute id="Name" type="FixedString" value="HarlequinArmour"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="ce03beac-fb46-4161-b826-06a377c3716d"/>
+                    <attribute id="UUID" type="guid" value="d25e7f45-828f-4225-817b-1dc7e027e9ab"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

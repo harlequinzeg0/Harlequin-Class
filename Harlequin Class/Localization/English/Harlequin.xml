@@ -47,4 +47,6 @@
 	<content contentuid="6F7B872F964FB0E2F9DF4F3A5AF7E40C0B1C7" version="1">Any frightened creature within 20ft of you has their movement speed halved and may only take an Action or Bonus Action but not both on its turn.</content>
 	<content contentuid="C4C41165A745DE39AA3852C9DDA2FE6497800" version="1">Smoulder</content>
 	<content contentuid="72A3C752C3844324A5E5BFFBC06F6157EB8AC" version="1">Whenever you deal fire damage to a creature, that creature is set aflame. it takes fire damage equal to your Charisma modifier at the start of its next turn. The flames are then doused.</content>
+	<content contentuid="A3F9C40DECABEED9EAEAE8376E42887945650" version="1">Hateful Mockery</content>
+	<content contentuid="9C6CD824670E880AED34C9C8FE6FD7A1FC03C" version="1">Your enchanted insults are filled with hate. Target takes increased damage and receives Disadvantage on its next Attack Roll.</content>
 </contentList>
