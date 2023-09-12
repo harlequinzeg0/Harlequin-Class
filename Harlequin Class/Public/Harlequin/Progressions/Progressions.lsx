@@ -127,17 +127,16 @@
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Harlequin"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="e035c466-fce4-483e-b284-4775eeffaa0b"/>
                     <attribute id="UUID" type="guid" value="b72a9aeb-6d27-4f5a-827d-7e4074f5671b"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="11"/>
-                    <attribute id="PassivesAdded" type="LSString" value="AbilityImprovement_Charisma_Harlequin"/>
                     <attribute id="Name" type="LSString" value="Harlequin"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(8f6294a2-9a25-436b-9ba5-0897fefba7d9)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="AbilityImprovement_Charisma_Harlequin"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(8f6294a2-9a25-436b-9ba5-0897fefba7d9)"/>
                     <attribute id="TableUUID" type="guid" value="e035c466-fce4-483e-b284-4775eeffaa0b"/>
                     <attribute id="UUID" type="guid" value="3b1fd4de-bda0-4dd1-aa98-3f8cba036e12"/>
                 </node>
@@ -147,7 +146,6 @@
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="Harlequin"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="e035c466-fce4-483e-b284-4775eeffaa0b"/>
                     <attribute id="UUID" type="guid" value="15fdbe1a-1311-4237-848c-6a3627e013e2"/>
                 </node>
