@@ -56,6 +56,6 @@
 	<content contentuid="22C10EDE93FB638E8ADBA008163CC1878B66D" version="1">Fire Eater</content>
 	<content contentuid="9B44700DE810B2851A4329FE1B9F3E29439C0" version="1">You are immune to fire damage.</content>
 	<content contentuid="F3989BCC923C42944926EB7EA7911A0574A44" version="1">Embrace the Flame</content>
-	<content contentuid="5FB6C66CADA1703D465DB13C0A3D79FB02411" version="1">Critical hits on enemy creatures inflict fire vulnerability on failed Charisma save.</content>
+	<content contentuid="5FB6C66CADA1703D465DB13C0A3D79FB02411" version="1">Critical hits or hits on burning creatures inflict fire vulnerability on failed Charisma save. Burning creatures let out an explosion of fire.</content>
 	<content contentuid="2E148B851F4696B7F4FC8C80131BB769BCC78" version="1">Vulnerable to fire.</content>
 </contentList>

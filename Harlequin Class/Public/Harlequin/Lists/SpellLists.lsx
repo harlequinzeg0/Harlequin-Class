@@ -47,7 +47,7 @@
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Harlequin Torch Bearer Spells Lvl 1"/>
                     <attribute id="Spells" type="LSString" value="Zone_BurningHands;Target_DissonantWhispers;Target_FaerieFire;Target_Bane;Zone_ColorSpray;Target_Sleep"/>
-                    <attribute id="UUID" type="guid" value="3ff9ab61-46dc-4a52-b007-43249abccc06"/>
+                    <attribute id="UUID" type="guid" value="2ed6ed71-c2c6-407d-8421-b742a66f8aff"/>
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Harlequin Torch Bearer Spells Lvl 2"/>
@@ -66,7 +66,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Harlequin Torch Bearer Cantrips"/>
-                    <attribute id="Spells" type="LSString" value="Projectile_FireBolt;Target_Light;Target_Grease;Shout_ProduceFlame;Target_DancingLights;Shout_BladeWard"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_FireBolt;Target_Light;Shout_ProduceFlame;Target_DancingLights;Shout_BladeWard"/>
                     <attribute id="UUID" type="guid" value="7875f56a-efd3-407f-a7fc-9fb760498bd1"/>
                 </node>
 			</children>
