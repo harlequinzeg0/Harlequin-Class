@@ -19,6 +19,7 @@ data "StatusType" "BOOST"
 using "EVASIVE_FOOTWORK"
 data "DisplayName" "C6BCC7869227DD9EEA82255947BD000C7601D;1"
 data "Description" "5C16DA71F25479FC1359A9D6E6C66526D123D;1"
+data "Icon" "Shout_ElusiveTraining_Icon"
 data "StackId" "ELUSIVE_FOOTWORK"
 data "Boosts" "IF(AttackingWithMeleeWeapon()):Disadvantage(AttackTarget);Advantage(SavingThrow,Dexterity)"
 
