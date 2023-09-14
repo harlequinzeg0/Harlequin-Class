@@ -11,7 +11,7 @@
                 </node>
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Harlequin Acrobat Lvl Two"/>
-                    <attribute id="Spells" type="LSString" value="Shout_Dash_EvasiveTraining;Shout_Disengage_EvasiveTraining"/>
+                    <attribute id="Spells" type="LSString" value="Shout_Dash_EvasiveTraining;Shout_Disengage_EvasiveTraining;Shout_ElusiveTraining"/>
                     <attribute id="UUID" type="guid" value="9e282fda-1668-49e3-8bdd-ec79d2c13729"/>
                 </node>
                 <node id="SpellList">
@@ -30,7 +30,7 @@
                     <attribute id="UUID" type="guid" value="4a810f8f-7f87-4867-93c1-8e06eccb14d4"/>
                 </node>
 				<node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Harlequin Leap"/>
+                    <attribute id="Comment" type="LSString" value="Harlequin Acrobat Lvl Six"/>
                     <attribute id="Spells" type="LSString" value="Projectile_Jump_Harlequin;Zone_EngageAudience"/>
                     <attribute id="UUID" type="guid" value="5fc505ac-dcd3-4ffb-9a1b-7f4912dd1d75"/>
                 </node>
