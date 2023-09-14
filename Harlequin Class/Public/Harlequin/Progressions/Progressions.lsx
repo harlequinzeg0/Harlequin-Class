@@ -150,7 +150,7 @@
                     <attribute id="UUID" type="guid" value="15fdbe1a-1311-4237-848c-6a3627e013e2"/>
                 </node>
 				<node id="Progression">
-                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Acrobat"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value="GraceAndBeauty;UnarmoredDefense_Harlequin"/>
@@ -175,7 +175,7 @@
                     <attribute id="UUID" type="guid" value="a57f9236-13b5-411b-8498-88c9b46b7381"/>
                 </node>
 				<node id="Progression">
-                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Jester"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value="FearIncarnate;LurkinShadows"/>
@@ -200,7 +200,7 @@
                     <attribute id="UUID" type="guid" value="6da9d698-df7b-4218-ac1f-45da1c61c49b"/>
                 </node>
 				<node id="Progression">
-                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="LanternBearer"/>
                     <attribute id="Boosts" type="LSString" value="Proficiency(Clubs);ActionResource(SpellSlot,1,1)"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
