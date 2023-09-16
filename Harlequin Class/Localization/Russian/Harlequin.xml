@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList date="09.11.2023_20_35">
+    <content contentuid="51cec3ee6ea74b2c6f0a256043b938691298d" version="1">Арлекин</content>
+    <content contentuid="3ccf56b6881e9dd5b7f3675c15961f191271b" version="1">Арлекин - воплощение причудливости и загадочности, исполнитель, искусный в обмане и борьбе. Они танцуют на грани между иллюзией и реальностью, используя свое обольстительное присутствие и ловкую акробатику, чтобы сбить с толку врагов.</content>
+    <content contentuid="e5c75ed285d846ce9bc1bc69566ca07bc210e" version="1">Псевдоним Арлекина</content>
+    <content contentuid="54bed3d6a1f403b194fc208b69445a03cda0c" version="1">Используя Псведоним Арлекина вы получаете преимущество при проверках на обман и запугивание.</content>
+    <content contentuid="fbc648ccf0f884e0e09f915cdc8aece293434" version="1">Сценический номер</content>
+    <content contentuid="a5ab8b612b56b9a6f3032ffeaeeb94e0942a3" version="1">На 2-м уровне вы выбираете ветвь обучения, которая лучше всего определяет ваш псевдоним, дающий вам бонусы на 2-м, 6-м, 10-м и 14-м уровнях.</content>
+    <content contentuid="01AAEC55AD1628AEF7DE1AD5FCC1F13E3FA15" version="1">Неестественная ловкость</content>
+    <content contentuid="B1BA83B4646B786C779CA55960364823AC973" version="1">Вы двигаетесь с проворной грацией, позволяющей вам с легкостью перемещаться по танцплощадке. Скорость вашей ходьбы увеличивается на 10, если у вас нет щита.</content>
+    <content contentuid="2B4929AB45C687DBB39EA06E28B1788AE993B" version="1">Ритмическое наступление</content>
+    <content contentuid="ed3c45688ed1c5092fd69e035a36a43ec361e" version="1">Ваша следующая атака нанесет бонусный психический урон.</content>
+    <content contentuid="5474E041D4C542574876CE25BC804AED7A29F" version="1">После успешной атаки оружием перейдите в ритмичную стойку. Пока вы находитесь в этой стойке, атаки в следующий ход получают дополнительный бонус к урону. При промахе вы теряете ритм и должны начать все сначала.</content>
+    <content contentuid="ed6c45689ed1c5092fd69d035a36a43ec361f" version="1">Акробат</content>
+    <content contentuid="99d73a53fad1e72790e0e707e9301cafdfffd" version="1">Акробаты делают упор на высокую мобильность, позволяющую им танцевать на поле боя, и способны поражать нескольких врагов на расстоянии.on extreme mobility to dance across the battlefield, and are capable of engaging multiple enemies from afar.</content>
+    <content contentuid="FECE96447805EBD34DB8BB3F95CE2AF740B7C" version="1">Шут</content>
+    <content contentuid="33C47B70B0A3CF585C576E80EFB6F5019A76F" version="1">Шуты - мастера тактики страха, применяемой арлекинами, сеющие хаос и ужас везде, где бы они ни появились.</content>
+    <content contentuid="9C552B71ACBC303180784B161BE1630A99F6A" version="1">Факелоносец</content>
+    <content contentuid="9D3B0A1658598261FAE04DE599F60802AE23D" version="1">Факелоносцы воплощают в себе сверхъестественные черты арлекинов, используя страх своих целей перед неизвестностью с помощью необычных тактических прие</content>
+    <content contentuid="AA8BB01C6275146FA3D8B8AB092CC6C38FE24" version="1">Обучение уклонению: Рывок</content>
+    <content contentuid="C88B24E3FD8E843FEB03F5DCA9BDE63F5F95E" version="1">Обучение уклонению: Отступление</content>
+    <content contentuid="0437B3216E241D6B5E34D5AA2A1693E2C8974" version="1">Экспертиза уклонения</content>
+    <content contentuid="4D19FE4C49535C47C0828B77077328E675165" version="1">Вы не получаете урона при успешных бросках спасения на ловкость и получаете половину урона при неудачных бросках.</content>
+    <content contentuid="E90934C7B8D5EBB1D40CA2902D8BF15C6C876" version="1">Грация и красота</content>
+    <content contentuid="96F16E299837C6B1ACF50154E3744D199428F" version="1">Вы получаете навык в акробатике. Вы можете удвоить свой бонус к навыку при всех проверках на акробатику.</content>
+    <content contentuid="11BD98443D11952B35EB5CD93A1039891BE62" version="1">Воплощение страха</content>
+    <content contentuid="C224C1F2DE17E40B3A7903B50D831CFA74283" version="1">Вы приобретаете навык запугивания. Вы можете удвоить свой бонус за квалификацию за все проверки на запугивание, которые вы проводите.</content>
+    <content contentuid="40648570553EF482F485BB397517398FA8C55" version="1">Затаиться в тени</content>
+    <content contentuid="3FCD5D8D840F0D8E9CE06732A7D35682B920C" version="1">Начиная со 2-го уровня, когда вы атакуете существо, от которого, как считается, вы скрыты, это существо начинает бояться вас до начала вашего следующего хода.</content>
+    <content contentuid="B0911BC33C6D7FFB72DFF3DDF68F7CFB7FEDE" version="1">Броня анонимности</content>
+    <content contentuid="2B30F488F58AB6EA786FAD68ECC765C7E4998" version="1">Ваша дьявольская внешность столь же эффективна, как и любая броня. Не надевая доспехов, вы добавляете модификатор харизмы к своему классу доспехов.</content>
+    <content contentuid="A0D6031E49F2F9A63C423FE310B895C873A17" version="1">Сверхъестественное движение</content>
+    <content contentuid="E261E36A667D7DFB4016699D0CF9F126F78CC" version="1">Вы выводите из равновесия враждебных существ, когда проскальзываете мимо них. Прыгая рядом с враждебным существом с вашим акробатическим мастерством, вы можете напугать его до конца следующего хода.</content>
+    <content contentuid="E32929977C7D3311A7F60A1345F81F5951908" version="1">Угрожающие удары</content>
+    <content contentuid="01C508829ABA4F420C3034D17702C7C56BD93" version="1">Ты учишься внушать страх своим боевым мастерством. Когда вы увеличиваете свой урон существу с помощью функции "Смертельный поток", вы можете заставить его совершить спасительный бросок "Харизма". При неудачном спасении существо начинает бояться вас.</content>
+    <content contentuid="83D79708FCC81EBADEB41A5B7CED4CE2C241E" version="1">Вовлекайте аудиторию</content>
+    <content contentuid="7ABE8F2E4DCA510CA96606274331A2683F66E" version="1">Вовлеките аудиторию: Ближний бой</content>
+    <content contentuid="D6C1B10F36C56BA911D1FC396533B194AB729" version="1">Вовлеките аудиторию: Дальний бой</content>
+    <content contentuid="11B0AD66FA2CD050D7705EC9C11CD85EEFD77" version="1">Вы применяете свои молниеносные навыки в наступлении, с безошибочной точностью бросая несколько снарядов во врагов перед вами в пределах 40-футового конуса, исходящего от вас.</content>
+    <content contentuid="407A3A2A6F0D8998E9903D218C3B15CA20917" version="1">Мастер факелов</content>
+    <content contentuid="A0F6FCDC71EB3E728EA0ED888D4977B5AB76A" version="1">Вы хорошо владеете факелами, фонарями и дубинками. Это оружие считается изящным, когда им владеете вы.</content>
+    <content contentuid="4EE6543700CFB29909236A82F8A9C85708003" version="1">Дыхание танцующего дракона</content>
+    <content contentuid="9F7C6A85211ADF46165FE486F5A1E084F458F" version="1">Вы учитесь владеть огнем драматическим образом. Вы можете выдохнуть крепкую алкогольную смесь, чтобы распылить огонь в конусе. Существа внутри конуса должны сделать спасительный бросок ловкостью, чтобы не получить урон от огня.</content>
+    <content contentuid="52F41147383522CC7BD4E6E37BAAEBFD077D0" version="1">Задыхаясь от страха</content>
+    <content contentuid="292D2C456919E0B2B7E052FAEFFA5D8C20D56" version="1">Бездыханный</content>
+    <content contentuid="87E5AE7915D740A025010A1F9EB8986C8FB08" version="1">Скорость передвижения уменьшается вдвое, и это существо может выполнять только действие или Бонусное действие, но не оба сразу в свой ход.</content>
+    <content contentuid="6F7B872F964FB0E2F9DF4F3A5AF7E40C0B1C7" version="1">У любого испуганного существа в радиусе 20 футов от вас скорость передвижения уменьшается вдвое, и оно может предпринять только действие или бонусное действие, но не оба сразу в свой ход.</content>
+    <content contentuid="C4C41165A745DE39AA3852C9DDA2FE6497800" version="1">Тлеющий</content>
+    <content contentuid="72A3C752C3844324A5E5BFFBC06F6157EB8AC" version="1">Всякий раз, когда вы наносите урон от огня существу, это существо поджигается. в начале следующего хода он наносит урон от огня, равный вашему модификатору харизмы. Затем пламя гаснет.</content>
+    <content contentuid="A3F9C40DECABEED9EAEAE8376E42887945650" version="1">Ненавистное издевательство</content>
+    <content contentuid="9C6CD824670E880AED34C9C8FE6FD7A1FC03C" version="1">Ваши очаровательные оскорбления наполнены ненавистью. Цель получает увеличенный урон и получает Препятствие при следующем броске атаки.</content>
+    <content contentuid="605FB1414BE21B7FD292813183E8FDDB09F4A" version="1">Безумный кудахтанье</content>
+    <content contentuid="87AC865ED36FF63BDF9DE9DCF5E3D405BEEEB" version="1">Вы можете использовать свое действие, чтобы издать отвратительную какофонию истерического смеха. Несколько существ, которые могут слышать вас в радиусе 30 футов от вас, должны преуспеть в спасброске Мудрости, иначе впадут в Ужасный смех на 1 минуту.</content>
+    <content contentuid="547FA0A3F06CED9903C330397333F94CB2A5F" version="1">Харизматичный хулиган</content>
+    <content contentuid="182B197E2E02115A3A05BCF0B05C428C0A49F" version="1">Вы получаете +2 к своей Харизме.</content>
+    <content contentuid="22C10EDE93FB638E8ADBA008163CC1878B66D" version="1">Пожиратель огня</content>
+    <content contentuid="9B44700DE810B2851A4329FE1B9F3E29439C0" version="1">Вы невосприимчивы к урону от огня.</content>
+    <content contentuid="F3989BCC923C42944926EB7EA7911A0574A44" version="1">Объятия пламени</content>
+    <content contentuid="5FB6C66CADA1703D465DB13C0A3D79FB02411" version="1">Критические удары или удары по горящим существам вызывают уязвимость к огню при неудачном спасброске Харизмы. Горящие существа испускают огненную вспышку.</content>
+    <content contentuid="2E148B851F4696B7F4FC8C80131BB769BCC78" version="1">Уязвим для огня.</content>
+    <content contentuid="C6BCC7869227DD9EEA82255947BD000C7601D" version="1">неуловимый</content>
+    <content contentuid="5C16DA71F25479FC1359A9D6E6C66526D123D" version="1">Броски атаки против вас имеют помеху, а вы получаете преимущество на спасброски Ловкости. Это бонусное действие, которое длится до вашего следующего хода и сбрасывается после короткого отдыха.</content>
+  </contentList>
