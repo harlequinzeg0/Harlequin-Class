@@ -15,6 +15,11 @@
                     <attribute id="UUID" type="guid" value="9e282fda-1668-49e3-8bdd-ec79d2c13729"/>
                 </node>
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Harlequin Lvl Five"/>
+                    <attribute id="Spells" type="LSString" value="Target_PhantasmalForce;Target_CrownOfMadness;Target_SpeakWithDead;Target_Invisibility;Target_Bane;Target_Sleep;Target_CharmPerson;Target_DissonantWhispers;Zone_ColorSpray;Target_HideousLaughter;Shout_DisguiseSelf"/>
+                    <attribute id="UUID" type="guid" value="7f346602-410a-4ae9-b9ce-13635cd03ea6"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Harlequin Jester Lvl Two"/>
                     <attribute id="Spells" type="LSString" value="Shout_Hide_BonusAction"/>
                     <attribute id="UUID" type="guid" value="da2e6552-ecc1-44d8-9bd2-a0983098b171"/>
@@ -68,6 +73,11 @@
                     <attribute id="Comment" type="LSString" value="Harlequin Torch Bearer Cantrips"/>
                     <attribute id="Spells" type="LSString" value="Projectile_FireBolt;Target_Light;Shout_ProduceFlame;Target_DancingLights;Shout_BladeWard"/>
                     <attribute id="UUID" type="guid" value="7875f56a-efd3-407f-a7fc-9fb760498bd1"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Harlequin Dethrone"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_CursedTome_Dethrone"/>
+                    <attribute id="UUID" type="guid" value="8bdff346-0b04-465e-b9f8-950095b86bf0"/>
                 </node>
 			</children>
         </node>

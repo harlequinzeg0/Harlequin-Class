@@ -79,7 +79,7 @@
                     <attribute id="PassivesAdded" type="LSString" value="ExtraAttack;UnlockedSpellSlotLevel2"/>
                     <attribute id="Name" type="LSString" value="Harlequin"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(7ea8f476-97a1-4256-8f10-afa76a845cce,1,1,BardSpells)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(7f346602-410a-4ae9-b9ce-13635cd03ea6,2,1,BardSpells)"/>
                     <attribute id="TableUUID" type="guid" value="e035c466-fce4-483e-b284-4775eeffaa0b"/>
                     <attribute id="UUID" type="guid" value=""/>
                 </node>
@@ -142,10 +142,11 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)"/>
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="Harlequin"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(8bdff346-0b04-465e-b9f8-950095b86bf0)"/>
                     <attribute id="TableUUID" type="guid" value="e035c466-fce4-483e-b284-4775eeffaa0b"/>
                     <attribute id="UUID" type="guid" value="15fdbe1a-1311-4237-848c-6a3627e013e2"/>
                 </node>
@@ -203,6 +204,7 @@
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="LanternBearer"/>
                     <attribute id="Boosts" type="LSString" value="Proficiency(Clubs);ActionResource(SpellSlot,1,1)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Harlequin_Smoulder"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(4a810f8f-7f87-4867-93c1-8e06eccb14d4);SelectSpells(2ed6ed71-c2c6-407d-8421-b742a66f8aff,2,1,BardSpells)"/>
                     <attribute id="TableUUID" type="guid" value="76773322-e2b8-4d7f-815b-05de39fa3f55"/> 
@@ -221,7 +223,7 @@
                     <attribute id="Name" type="LSString" value="LanternBearer"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);ActionResource(SpellSlot,1,3)"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Harlequin_Smoulder;UnlockedSpellSlotLevel3"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(9325d3dd-d902-4607-816a-61a4f9a1c24d);SelectSpells(a723a0dd-47b3-4af7-95b5-e4798d657497,2,2,BardSpells);SelectSpells(a72075d9-e2c8-4b8d-90d1-c1849949c02f,1,3,BardSpells)"/>
                     <attribute id="TableUUID" type="guid" value="76773322-e2b8-4d7f-815b-05de39fa3f55"/> 
                     <attribute id="UUID" type="guid" value="1a9a79ff-791c-4ec3-b7d1-2beec605dfe3"/>
