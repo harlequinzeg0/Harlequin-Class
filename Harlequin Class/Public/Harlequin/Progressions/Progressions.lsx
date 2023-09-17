@@ -81,7 +81,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(7f346602-410a-4ae9-b9ce-13635cd03ea6,2,1,BardSpells)"/>
                     <attribute id="TableUUID" type="guid" value="e035c466-fce4-483e-b284-4775eeffaa0b"/>
-                    <attribute id="UUID" type="guid" value=""/>
+                    <attribute id="UUID" type="guid" value="969345bc-321c-4184-be1e-b5a4141a620e"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Boosts" type="LSString" value=""/>
