@@ -109,7 +109,7 @@ data "Description" "72A3C752C3844324A5E5BFFBC06F6157EB8AC;1"
 data "Icon" "Harlequin_Smoulder_Icon"
 data "StatsFunctorContext" "OnDamage"
 data "Properties" "Highlighted"
-data "Conditions" "Enemy(context.Target) and (SpellDamageTypeIs(DamageType.Fire) or IsDamageTypeFire(context.Target)) and not HasStatus('SMOULDERING')"
+data "Conditions" "Enemy(context.Target) and (SpellDamageTypeIs(DamageType.Fire) or IsDamageTypeFire(context.Target)) and not HasStatus('SMOULDERING') and not HasStatus('BURNING')"
 data "StatsFunctors" "ApplyStatus(SMOULDERING,100,1)"
 
 new entry "EmbracetheFlame"
