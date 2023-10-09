@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="The Harlequin is the embodiment of whimsy and enigma, a performer skilled in both deception and combat." />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="3ccf56b6881e9dd5b7f3675c15961f191271b" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="51cec3ee6ea74b2c6f0a256043b938691298d" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="HARLEQUIN" />
+			<attribute id="UUID" type="guid" value="45cf829f-ed30-42ee-b3b1-92bc2aac72fd" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Class" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

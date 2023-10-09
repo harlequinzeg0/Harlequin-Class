@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="322"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="3ccf56b6881e9dd5b7f3675c15961f191271b" version="1"/> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="51cec3ee6ea74b2c6f0a256043b938691298d" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="e035c466-fce4-483e-b284-4775eeffaa0b"/>
+                    <attribute id="Type" type="FixedString" value="Harlequin"/>
+                    <attribute id="UUID" type="guid" value="1dfd5446-8a29-4993-9136-d0f0b95c2c36"/>
+                </node>
+
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="99d73a53fad1e72790e0e707e9301cafdfffd" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="ed6c45689ed1c5092fd69d035a36a43ec361f" version="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="ae76cb79-4413-454b-95e9-65bee58bcc4d"/>
+                    <attribute id="Type" type="FixedString" value="Acrobat"/>
+                    <attribute id="UUID" type="guid" value="56b2f81c-7d68-4790-92d6-fb326caae6e3"/>
+                </node>
+
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="33C47B70B0A3CF585C576E80EFB6F5019A76F" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="FECE96447805EBD34DB8BB3F95CE2AF740B7C" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="1dfa437a-9d0c-4d19-a437-d919bde529f9"/>
+                    <attribute id="Type" type="FixedString" value="Jester"/>
+                    <attribute id="UUID" type="guid" value="bf7d7d43-c019-4d52-8ecc-c882e41d4963"/>
+                </node>
+
+                <node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="9D3B0A1658598261FAE04DE599F60802AE23D" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="9C552B71ACBC303180784B161BE1630A99F6A" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="76773322-e2b8-4d7f-815b-05de39fa3f55"/>
+                    <attribute id="Type" type="FixedString" value="LanternBearer"/>
+                    <attribute id="UUID" type="guid" value="2d85f618-f50a-4892-bed3-7df30acdd450"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
