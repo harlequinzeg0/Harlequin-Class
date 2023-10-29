@@ -76,6 +76,6 @@
 	<content contentuid="AACE2D5B0C5D9A5B29A30F506355E1795EAEB" version="1">更大的折磨</content>
 	<content contentuid="5DF83E9A0C226B62160B1351DDF255722EA18" version="1">当你使用武器攻击对受惊吓的生物造成伤害时，你可以额外造成 [1] 伤害。</content>
 	<content contentuid="AA5DEA989753F10AE8FACEE0DDC815CC8F63D" version="1">大结局</content>
-	<content contentuid="080E99A51DC683A4D04F575EDCEDDBA77C5B3" version="1">每次短暂休息一次，当你在节奏攻击中用武器攻击击中生物时，你可以选择应用额外的 [1]。 之后，你的节奏攻击将进入冷却六回合。</content>
+	<content contentuid="080E99A51DC683A4D04F575EDCEDDBA77C5B3" version="1">每次战斗一次，当你在节奏攻击中用武器攻击击中生物时，你可以选择应用额外的 [1]。 之后，你的节奏攻击将进入冷却六回合。</content>
 	<content contentuid="D69DDE4AF00EADF76E00EB83BC3D3130D4C83" version="1">节奏攻击正在冷却。</content>
-</contentList>
+	</contentList>

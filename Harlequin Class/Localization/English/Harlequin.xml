@@ -76,6 +76,6 @@
 	<content contentuid="AACE2D5B0C5D9A5B29A30F506355E1795EAEB" version="1">Greater Torment</content>
 	<content contentuid="5DF83E9A0C226B62160B1351DDF255722EA18" version="1">When you deal damage with a weapon attack to a creature that is Frightened, you may deal an additional [1].</content>
 	<content contentuid="AA5DEA989753F10AE8FACEE0DDC815CC8F63D" version="1">Grand Finale</content>
-	<content contentuid="080E99A51DC683A4D04F575EDCEDDBA77C5B3" version="1">Once per short rest, when you hit a creature with a weapon attack while in Rhythmic Assault, you may choose to apply an additional [1]. Afterwards, your Rhythmic Assault goes on cooldown for six turns.</content>
+	<content contentuid="080E99A51DC683A4D04F575EDCEDDBA77C5B3" version="1">Once per combat, when you hit a creature with a weapon attack while in Rhythmic Assault, you may choose to apply an additional [1]. Afterwards, your Rhythmic Assault goes on cooldown for six turns.</content>
 	<content contentuid="D69DDE4AF00EADF76E00EB83BC3D3130D4C83" version="1">Rhythmic Assault is on cooldown.</content>
 </contentList>
