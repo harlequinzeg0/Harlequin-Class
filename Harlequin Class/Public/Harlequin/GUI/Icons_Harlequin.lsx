@@ -130,6 +130,20 @@
                     <attribute id="V1" type="float" value="0.1"/>
                     <attribute id="V2" type="float" value="0.2"/>
                 </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Icon_Torment_Harlequin"/>
+                    <attribute id="U1" type="float" value="0.8"/>
+                    <attribute id="U2" type="float" value="0.9"/>
+                    <attribute id="V1" type="float" value="0.1"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Icon_BreakTheChain"/>
+                    <attribute id="U1" type="float" value="0.9"/>
+                    <attribute id="U2" type="float" value="1.0"/>
+                    <attribute id="V1" type="float" value="0.1"/>
+                    <attribute id="V2" type="float" value="0.2"/>
+                </node>
             </children>
         </node>
     </region>

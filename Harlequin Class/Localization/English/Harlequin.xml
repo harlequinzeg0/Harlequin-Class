@@ -72,4 +72,10 @@
 	<content contentuid="85F849875F4E8DC33C1FDD16891F8C52A928A" version="1">Bravado and showboating inspire the meak to follow you. Little do they know its to their death.</content>
 	<content contentuid="1DCC135E75C9FFAB9B6250B288EE50BC90A83" version="1">A herald of death, your presence exudes a terrifying aura of hate.</content>
 	<content contentuid="CDC951057830DB244275F78DBC312334098B3" version="1">A regal presence, you have woo'd many with your charms.</content>
+	<content contentuid="D4C864EAAD1F7C601BDAE173CD4140E287D09" version="1">Torment</content>
+	<content contentuid="AACE2D5B0C5D9A5B29A30F506355E1795EAEB" version="1">Greater Torment</content>
+	<content contentuid="5DF83E9A0C226B62160B1351DDF255722EA18" version="1">When you deal damage with a weapon attack to a creature that is Frightened, you may deal an additional [1].</content>
+	<content contentuid="AA5DEA989753F10AE8FACEE0DDC815CC8F63D" version="1">Grand Finale</content>
+	<content contentuid="080E99A51DC683A4D04F575EDCEDDBA77C5B3" version="1">Once per short rest, when you hit a creature with a weapon attack while in Rhythmic Assault, you may choose to apply an additional [1]. Afterwards, your Rhythmic Assault goes on cooldown for six turns.</content>
+	<content contentuid="D69DDE4AF00EADF76E00EB83BC3D3130D4C83" version="1">Rhythmic Assault is on cooldown.</content>
 </contentList>

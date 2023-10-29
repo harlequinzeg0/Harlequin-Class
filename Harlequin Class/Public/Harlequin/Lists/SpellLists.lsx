@@ -20,6 +20,11 @@
                     <attribute id="UUID" type="guid" value="7f346602-410a-4ae9-b9ce-13635cd03ea6"/>
                 </node>
                 <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Harlequin Lvl Seventeen"/>
+                    <attribute id="Spells" type="LSString" value="Zone_ConjureBarrage;Zone_Fear;Target_HypnoticPattern;Target_PhantasmalForce;Target_CrownOfMadness;Target_SpeakWithDead;Target_Invisibility;Target_Bane;Target_Sleep;Target_CharmPerson;Target_DissonantWhispers;Zone_ColorSpray;Target_HideousLaughter;Shout_DisguiseSelf"/>
+                    <attribute id="UUID" type="guid" value="a99dbc4d-88fd-442b-9424-f303c01a78a3"/>
+                </node>
+                <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Harlequin Jester Lvl Two"/>
                     <attribute id="Spells" type="LSString" value="Shout_Hide_BonusAction"/>
                     <attribute id="UUID" type="guid" value="da2e6552-ecc1-44d8-9bd2-a0983098b171"/>

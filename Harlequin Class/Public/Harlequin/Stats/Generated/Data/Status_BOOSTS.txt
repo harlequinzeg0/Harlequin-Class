@@ -36,6 +36,15 @@ data "RemoveConditions" "IsAttack() and not HasDamageEffectFlag(DamageFlags.Hit)
 data "RemoveEvents" "OnAttack"
 data "StatusEffect" "094af72c-263e-4c2f-9856-837e1bb5eae5"
 
+new entry "BREAK_THE_CHAIN"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "AA5DEA989753F10AE8FACEE0DDC815CC8F63D;1"
+data "Description" "D69DDE4AF00EADF76E00EB83BC3D3130D4C83;1"
+data "Icon" "Icon_BreakTheChain"
+data "StackId" "BREAK_THE_CHAIN"
+data "StatusGroups" "SG_RemoveOnRespec"
+
 new entry "BREATHLESS"
 type "StatusData"
 data "StatusType" "BOOST"

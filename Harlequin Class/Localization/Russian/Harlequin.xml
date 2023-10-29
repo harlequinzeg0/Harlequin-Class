@@ -72,4 +72,10 @@
     <content contentuid="85F849875F4E8DC33C1FDD16891F8C52A928A" version="1">Бравада и показуха вдохновляют мик следовать за вами. Они даже не подозревают, что это приведет к их смерти.</content>
     <content contentuid="1DCC135E75C9FFAB9B6250B288EE50BC90A83" version="1">Вестник смерти, ваше присутствие излучает ужасающую ауру ненависти.</content>
     <content contentuid="CDC951057830DB244275F78DBC312334098B3" version="1">Царственное присутствие, вы покорили многих своим обаянием.</content>
-  </contentList>
+    <content contentuid="D4C864EAAD1F7C601BDAE173CD4140E287D09" version="1">Мучение</content>
+    <content contentuid="AACE2D5B0C5D9A5B29A30F506355E1795EAEB" version="1">Великие мучения</content>
+    <content contentuid="5DF83E9A0C226B62160B1351DDF255722EA18" version="1">Когда вы наносите урон атакой оружием напуганному существу, вы можете нанести дополнительно [1].</content>
+    <content contentuid="AA5DEA989753F10AE8FACEE0DDC815CC8F63D" version="1">Грандиозный финал</content>
+    <content contentuid="080E99A51DC683A4D04F575EDCEDDBA77C5B3" version="1">Один раз за короткий отдых, когда вы поражаете существо атакой оружием в режиме «Ритмическое нападение», вы можете применить дополнительный [1]. После этого ваша «Ритмическая атака» восстанавливается в течение шести ходов.</content>
+    <content contentuid="D69DDE4AF00EADF76E00EB83BC3D3130D4C83" version="1">Ритмический штурм находится на перезарядке.</content>
+    </contentList>
